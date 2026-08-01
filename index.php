@@ -1,5 +1,5 @@
 <?php
-$phone = '79991234567';
+$phone = '79966550666';
 
 $photo1 = 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600';
 $photo2 = 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600';
